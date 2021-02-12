@@ -1,1 +1,2 @@
 Este es una nueva linea
+Esta es mi linea agregada en el error
